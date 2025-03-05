@@ -1,0 +1,10 @@
+1. Install the necessary libraries (if you don't have them): pip install colorama
+
+2. Run the script in Python: python main.py
+
+3. Enter the IP you want to analyze.
+
+4. The script will show you the open and closed ports.
+
+
+byFlipz
